@@ -1,0 +1,6 @@
+**/target/
+.eclipse
+*.iml
+*.class
+*Test.java
+**/test/
